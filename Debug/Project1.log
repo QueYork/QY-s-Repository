@@ -1,0 +1,5 @@
+﻿  file1.cpp
+c1xx : fatal error C1083: 无法打开源文件: “file1.cpp”: No such file or directory
+  调用返回自定义函数示例.cpp
+c1xx : fatal error C1083: 无法打开源文件: “调用返回自定义函数示例.cpp”: No such file or directory
+  正在生成代码...
